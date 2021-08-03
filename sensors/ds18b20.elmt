@@ -1,0 +1,22 @@
+<definition link_type="simple" type="element" width="110" hotspot_y="33" orientation="dyyy" height="80" hotspot_x="55" version="0.80">
+    <uuid uuid="{54df4fbb-350e-4707-9040-9b551f8c18f5}"/>
+    <names>
+        <name lang="fr">DS18B20</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect width="100" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" antialias="false" height="60" ry="0" y="-29.75" x="-50"/>
+        <line x1="-30" y1="31" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" length1="1.5" length2="1.5" y2="41" x2="-30" end1="none" end2="none"/>
+        <line x1="0" y1="31" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" length1="1.5" length2="1.5" y2="41" x2="0" end1="none" end2="none"/>
+        <line x1="30" y1="31" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" length1="1.5" length2="1.5" y2="41" x2="30" end1="none" end2="none"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" text="DS18B20" y="-5" x="-25"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" text="DQ" y="27" x="-8"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" text="V" y="27" x="24"/>
+        <text font="Sans Serif,9,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" text="GND" y="27" x="-42"/>
+        <text font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" color="#000000" text="DD" y="29" x="30"/>
+        <terminal orientation="s" y="41" x="-30"/>
+        <terminal orientation="s" y="41" x="30"/>
+        <terminal orientation="s" y="41" x="0"/>
+    </description>
+</definition>
