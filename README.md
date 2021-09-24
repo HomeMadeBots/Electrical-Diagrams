@@ -7,6 +7,7 @@ Electrical diagrams realized with QElectroTech.
 | Device  | Preview |
 | --- | --- |
 | DS18B20  | ![DS18B20 preview](img/DS18B20.png) |
+|  5 buttons keypad | ![5 buttons keypad preview](img/five_buttons_keypad.png) |
 
 ## Actuators
 
