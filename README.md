@@ -14,6 +14,7 @@ Electrical diagrams realized with QElectroTech.
 | Device  | Preview |
 | --- | --- |
 | TK10-1P | ![TK10-1P preview](img/TK10-1P.png) |
+| LCD 1602A | ![LCD 1602A preview](img/LCD1602A.png) |
 
 ## Arduino boards
 
